@@ -94,4 +94,4 @@ From an industrial perspective, this project holds significant value:
 *Competitive Advantage:* Leveraging data-driven insights allows businesses to stay ahead of the competition by making informed decisions based on empirical evidence rather than intuition.
 
 ## Author
-Pranay Khandagle
+Mayur Mane 
